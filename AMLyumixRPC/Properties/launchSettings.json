@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AMLyumixRPC": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\ytxke\\source\\repos\\LyumixLauncher\\LyumixLauncher\\bin\\Debug\\net8.0-windows\\LyumixLauncher.exe"
+    }
+  }
+}
